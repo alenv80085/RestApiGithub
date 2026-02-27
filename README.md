@@ -12,7 +12,7 @@ Built with industry-standard patterns: **Application Factory**, **Blueprints**, 
 
 ---
 
-## 📑 Table of Contents
+######### 📑 Table of Contents
 
 - [Features](#-features)
 - [Project Structure](#-project-structure)
